@@ -296,4 +296,4 @@ The Streamlit dashboard makes the system interactive and deployment-ready.
 
 # Author
 
-Developed as a Machine Learning and Data Science project focused on content monetization analytics.
+Muthuselvam
